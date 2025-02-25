@@ -1,34 +1,34 @@
 ,date,first_visited_time,first_visited_chrome_title,last_visited_time,last_visited_chrome_title,total_school_keyword_count,uva,canvas,eqk9vb,drive,last_school_keyword_visit_time
 0,2024-11-16,02:52:07,lululemon like new - Google Search,06:24:21,research summary - Google Docs,0,0,0,0,0,06:24:21
-1,2024-11-17,19:00:13,gmail - Google Search,23:18:40,mse loss func - Google Search,71,57,0,6,8,23:18:40
-2,2024-11-18,00:34:41,Grades for Cheryl Bai: 24F Machine Learning,23:13:00,What lectures for the exam - eqk9vb@virginia.edu - UVa Mail,89,40,1,24,24,23:13:00
-3,2024-11-19,01:08:09,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",23:44:47,dsa2-staff/pa/pa4 at main · uva-cs/dsa2-staff,53,40,0,6,7,23:44:47
-4,2024-11-20,00:05:56,CS Eval November 20 - Google Slides,23:06:47,Methodological issues: The use of critical ethnography as an active research methodology | Emerald Insight,89,40,1,30,18,23:06:47
-5,2024-11-21,00:28:52,Deontological Ethics (Stanford Encyclopedia of Philosophy/Winter 2021 Edition),23:59:49,Grade Submission | Gradescope,209,69,0,124,16,23:59:49
-6,2024-11-22,00:08:10,Grade Submission | Gradescope,22:31:06,Office Hours Sign-up - Google Sheets,56,21,0,21,14,22:31:06
-7,2024-11-23,00:55:52,Thanksgiving Throwdown Recap - eqk9vb@virginia.edu - UVa Mail,23:17:52,,35,25,0,10,0,23:17:52
-8,2024-11-24,01:24:12,matcha white chocolate cookies - Google Search,23:19:05,My Interactive Sessions - UVA OpenOnDemand,96,76,0,15,5,23:19:05
-9,2024-11-25,02:31:04,My Interactive Sessions - UVA OpenOnDemand,23:56:47,University of Virginia Subreddit,106,69,0,18,19,23:56:47
-10,2024-11-26,00:00:24,Grade Submission | Gradescope,23:06:50,Welcome - pal-replication-main - code-server,24,24,0,0,0,23:06:50
-11,2024-11-27,00:33:14,Fairfax Ice Arena,17:54:50,gsmhardv2copy.jsonl - pal-replication-main - code-server,11,11,0,0,0,17:54:50
-12,2024-11-28,02:52:49,NetBadge Message - Saving Session Information...,23:07:18,Other Food Passages - Google Docs,72,55,0,10,7,23:07:18
-13,2024-11-29,03:23:54,Dashboard - UVA OpenOnDemand,23:59:29,ChatGPT,132,94,0,31,7,23:59:29
-14,2024-11-30,00:02:59,innisfree - Google Search,23:28:05,My Interactive Sessions - UVA OpenOnDemand,72,53,0,8,11,23:28:05
-15,2024-12-01,00:03:35,calvados - Google Search,23:50:00,Other Food Passages - Google Docs,89,52,0,8,29,23:50:00
-16,2024-12-02,00:04:57,pufferfish - Google Search,22:12:37,semantic analysis - Google Search,59,22,0,13,24,22:12:37
-17,2024-12-03,00:10:09,CS 6190: Attendance Coordination - Google Docs,23:34:48,gastronomy - Google Search,26,8,0,0,18,23:34:48
-18,2024-12-04,00:06:09,Results - Google Sheets,23:13:38,Results - Google Sheets,206,48,0,138,20,23:13:38
-19,2024-12-05,02:50:44,Home - Google Drive,21:43:26,HCI Final Presentation - Google Slides,14,0,0,0,14,21:43:26
-20,2024-12-06,01:46:35,HCI Final Presentation - Google Slides,23:57:36,john stuart mill - Google Search,67,26,0,20,21,23:57:36
-21,2024-12-07,00:08:28,lotl - Google Search,20:17:29,My Interactive Sessions - UVA OpenOnDemand,57,35,0,6,16,20:17:29
-22,2024-12-08,00:26:17,Code Server - UVA OpenOnDemand,23:59:10,replication of pal final paper outline - Google Docs,110,83,0,10,17,23:59:10
-23,2024-12-09,00:16:37,PAL: Program-aided Language Models,23:28:04,"UVa - Calendar - Week of February 9, 2025",90,65,0,6,19,23:28:04
-24,2024-12-10,00:29:46,CS Evaluation Paper Report - Online LaTeX Editor Overleaf,23:16:23,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",163,108,0,52,3,23:16:23
-25,2024-12-11,00:09:07,"Monday, November 4, 2024 at 9:58:20 AM",23:50:18,Grade Submission | Gradescope,54,31,0,19,4,23:50:18
-26,2024-12-12,00:23:20,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",23:15:21,SANEI Ticket Service,55,19,0,17,19,23:15:21
-27,2024-12-13,00:00:28,Amazon.com. Spend less. Smile more.,23:46:16,,82,31,0,31,20,23:46:16
-28,2024-12-14,00:29:14,uva workday - Google Search,23:25:00,HCI 24 Fall Team Member Evaluation Form,11,11,0,0,0,23:25:00
-29,2024-12-15,19:21:51,My Schedule,23:52:42,Amazon.com Shopping Cart,22,9,0,9,4,23:52:42
+1,2024-11-17,19:00:13,gmail - Google Search,23:18:40,mse loss func - Google Search,113,63,26,6,18,23:18:40
+2,2024-11-18,00:34:41,Grades for Cheryl Bai: 24F Machine Learning,23:13:00,What lectures for the exam - eqk9vb@virginia.edu - UVa Mail,229,58,87,24,60,23:13:00
+3,2024-11-19,01:08:09,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",23:44:47,dsa2-staff/pa/pa4 at main · uva-cs/dsa2-staff,126,57,40,6,23,23:44:47
+4,2024-11-20,00:05:56,CS Eval November 20 - Google Slides,23:06:47,Methodological issues: The use of critical ethnography as an active research methodology | Emerald Insight,234,49,110,30,45,23:06:47
+5,2024-11-21,00:28:52,Deontological Ethics (Stanford Encyclopedia of Philosophy/Winter 2021 Edition),23:59:49,Grade Submission | Gradescope,396,137,94,124,41,23:59:49
+6,2024-11-22,00:08:10,Grade Submission | Gradescope,22:31:06,Office Hours Sign-up - Google Sheets,75,21,0,21,33,22:31:06
+7,2024-11-23,00:55:52,Thanksgiving Throwdown Recap - eqk9vb@virginia.edu - UVa Mail,23:17:52,,66,55,0,11,0,23:17:52
+8,2024-11-24,01:24:12,matcha white chocolate cookies - Google Search,23:19:05,My Interactive Sessions - UVA OpenOnDemand,172,99,0,60,13,23:19:05
+9,2024-11-25,02:31:04,My Interactive Sessions - UVA OpenOnDemand,23:56:47,University of Virginia Subreddit,334,149,114,29,42,23:56:47
+10,2024-11-26,00:00:24,Grade Submission | Gradescope,23:06:50,Welcome - pal-replication-main - code-server,69,57,2,10,0,23:06:50
+11,2024-11-27,00:33:14,Fairfax Ice Arena,17:54:50,gsmhardv2copy.jsonl - pal-replication-main - code-server,25,15,0,10,0,17:54:50
+12,2024-11-28,02:52:49,NetBadge Message - Saving Session Information...,23:07:18,Other Food Passages - Google Docs,146,91,0,38,17,23:07:18
+13,2024-11-29,03:23:54,Dashboard - UVA OpenOnDemand,23:59:29,ChatGPT,203,104,7,73,19,23:59:29
+14,2024-11-30,00:02:59,innisfree - Google Search,23:28:05,My Interactive Sessions - UVA OpenOnDemand,127,66,0,36,25,23:28:05
+15,2024-12-01,00:03:35,calvados - Google Search,23:50:00,Other Food Passages - Google Docs,173,62,17,21,73,23:50:00
+16,2024-12-02,00:04:57,pufferfish - Google Search,22:12:37,semantic analysis - Google Search,245,30,130,13,72,22:12:37
+17,2024-12-03,00:10:09,CS 6190: Attendance Coordination - Google Docs,23:34:48,gastronomy - Google Search,107,38,19,0,50,23:34:48
+18,2024-12-04,00:06:09,Results - Google Sheets,23:13:38,Results - Google Sheets,332,70,65,138,59,23:13:38
+19,2024-12-05,02:50:44,Home - Google Drive,21:43:26,HCI Final Presentation - Google Slides,79,6,33,0,40,21:43:26
+20,2024-12-06,01:46:35,HCI Final Presentation - Google Slides,23:57:36,john stuart mill - Google Search,129,29,30,20,50,23:57:36
+21,2024-12-07,00:08:28,lotl - Google Search,20:17:29,My Interactive Sessions - UVA OpenOnDemand,124,53,15,12,44,20:17:29
+22,2024-12-08,00:26:17,Code Server - UVA OpenOnDemand,23:59:10,replication of pal final paper outline - Google Docs,188,108,7,30,43,23:59:10
+23,2024-12-09,00:16:37,PAL: Program-aided Language Models,23:28:04,"UVa - Calendar - Week of February 9, 2025",187,111,17,13,46,23:28:04
+24,2024-12-10,00:29:46,CS Evaluation Paper Report - Online LaTeX Editor Overleaf,23:16:23,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",422,177,100,139,6,23:16:23
+25,2024-12-11,00:09:07,"Monday, November 4, 2024 at 9:58:20 AM",23:50:18,Grade Submission | Gradescope,764,621,116,19,8,23:50:18
+26,2024-12-12,00:23:20,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",23:15:21,SANEI Ticket Service,169,90,24,17,38,23:15:21
+27,2024-12-13,00:00:28,Amazon.com. Spend less. Smile more.,23:46:16,,161,70,16,31,44,23:46:16
+28,2024-12-14,00:29:14,uva workday - Google Search,23:25:00,HCI 24 Fall Team Member Evaluation Form,37,29,8,0,0,23:25:00
+29,2024-12-15,19:21:51,My Schedule,23:52:42,Amazon.com Shopping Cart,29,10,0,9,10,23:52:42
 30,2024-12-16,20:07:02,brave citizen - Google Search,20:14:14,hulu download offline - Google Search,0,0,0,0,0,20:14:14
 31,2024-12-17,00:16:21,get photos from iphone to pc - Google Search,03:48:28,What Can I Bring? All | Transportation Security Administration,0,0,0,0,0,03:48:28
 32,2024-12-18,,,,,0,0,0,0,0,
@@ -44,49 +44,49 @@
 42,2024-12-28,,,,,0,0,0,0,0,
 43,2024-12-29,,,,,0,0,0,0,0,
 44,2024-12-30,,,,,0,0,0,0,0,
-45,2024-12-31,19:04:18,POPFLEX® | Designed with a Why,22:47:04,iPhone 16 Pro and 16 Pro Max - Technical Specifications - Apple,0,0,0,0,0,22:47:04
-46,2025-01-01,02:05:20,dsw - Google Search,22:56:56,Amazon.com : daisque,30,15,0,15,0,22:56:56
+45,2024-12-31,19:04:18,POPFLEX® | Designed with a Why,22:47:04,iPhone 16 Pro and 16 Pro Max - Technical Specifications - Apple,1,1,0,0,0,22:47:04
+46,2025-01-01,02:05:20,dsw - Google Search,22:56:56,Amazon.com : daisque,43,28,0,15,0,22:56:56
 47,2025-01-02,01:46:11,Club Figure Skating Spring 2024 Off Ice - When2meet,02:52:13,Amazon.com : rice mask,0,0,0,0,0,02:52:13
-48,2025-01-03,01:56:00,Amazon.com : canmake,02:14:16,Perfect Plane Pants - Black – POPFLEX®,0,0,0,0,0,02:14:16
+48,2025-01-03,01:56:00,Amazon.com : canmake,02:14:16,Perfect Plane Pants - Black – POPFLEX®,1,1,0,0,0,02:14:16
 49,2025-01-04,00:58:56,My Team Shop,02:50:25,My Team Shop,0,0,0,0,0,02:50:25
-50,2025-01-05,00:11:47,Home - Netflix,23:22:58,does an air tag interfere with credit car… - Apple Community,23,10,0,10,3,23:22:58
-51,2025-01-06,01:06:41,GroupMe | Group chat app,22:45:08,88rising Double Happiness French Terry Hoodie - Dust – The 88rising Shop,31,16,0,15,0,22:45:08
-52,2025-01-07,02:00:37,Amazon.com Shopping Cart,23:54:39,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",179,127,0,47,5,23:54:39
-53,2025-01-08,00:01:11,Timeout Warning. Click OK to not end the session.,22:40:52,Gaepi-tteok - Wikipedia,9,7,0,2,0,22:40:52
-54,2025-01-09,00:30:18,Amazon.com. Spend less. Smile more.,23:37:06,Your session has timed out.,63,16,0,11,36,23:37:06
+50,2025-01-05,00:11:47,Home - Netflix,23:22:58,does an air tag interfere with credit car… - Apple Community,37,21,0,10,6,23:22:58
+51,2025-01-06,01:06:41,GroupMe | Group chat app,22:45:08,88rising Double Happiness French Terry Hoodie - Dust – The 88rising Shop,67,48,4,15,0,22:45:08
+52,2025-01-07,02:00:37,Amazon.com Shopping Cart,23:54:39,"Inbox (6,286) - eqk9vb@virginia.edu - UVa Mail",292,234,0,47,11,23:54:39
+53,2025-01-08,00:01:11,Timeout Warning. Click OK to not end the session.,22:40:52,Gaepi-tteok - Wikipedia,18,16,0,2,0,22:40:52
+54,2025-01-09,00:30:18,Amazon.com. Spend less. Smile more.,23:37:06,Your session has timed out.,139,56,0,11,72,23:37:06
 55,2025-01-10,01:44:28,Order your Textbooks Today! 📚 - eqk9vb@virginia.edu - UVa Mail,03:35:15,Amazon.com : mini trading card binder,4,2,0,2,0,03:35:15
-56,2025-01-11,20:41:40,GroupMe | Group chat app,22:59:35,Amazon.com Shopping Cart,17,9,1,7,0,22:59:35
+56,2025-01-11,20:41:40,GroupMe | Group chat app,22:59:35,Amazon.com Shopping Cart,41,33,1,7,0,22:59:35
 57,2025-01-12,00:56:39,Amazon.com : biodance collagen face mask,23:47:15,"Amazon.com: Logitech K585 Multi-Device Slim Wireless Keyboard, Built-in Cradle for Device; for Laptop, Tablet, Desktop, Smartphone, Win/Mac, Bluetooth/Receiver, Compact, Easy Switch, 24 Month Battery - Rose : Electronics",37,20,0,13,4,23:47:15
-58,2025-01-13,03:02:07,NetBadge Message - Loading Session Information,23:41:18,Spring Comp Interest Form (Responses) - Google Sheets,238,150,0,67,21,23:41:18
-59,2025-01-14,00:23:14,volleyball shoes with best traction - Google Search,21:44:39,URL Shortener,40,14,0,2,24,21:44:39
-60,2025-01-15,00:07:16,Topic: Question Formation Exercise #1,23:06:02,STS Research Paper Outline - Google Docs,115,46,0,17,52,23:06:02
-61,2025-01-16,00:46:18,Dashboard,23:54:52,Logout | Virginia Tech,31,11,0,0,20,23:54:52
-62,2025-01-17,00:33:23,Skating 24-25 - Google Drive,22:51:31,View Hours - TimeClock Plus,138,57,0,44,37,22:51:31
+58,2025-01-13,03:02:07,NetBadge Message - Loading Session Information,23:41:18,Spring Comp Interest Form (Responses) - Google Sheets,470,258,83,67,62,23:41:18
+59,2025-01-14,00:23:14,volleyball shoes with best traction - Google Search,21:44:39,URL Shortener,114,37,18,2,57,21:44:39
+60,2025-01-15,00:07:16,Topic: Question Formation Exercise #1,23:06:02,STS Research Paper Outline - Google Docs,321,88,87,17,129,23:06:02
+61,2025-01-16,00:46:18,Dashboard,23:54:52,Logout | Virginia Tech,64,15,4,0,45,23:54:52
+62,2025-01-17,00:33:23,Skating 24-25 - Google Drive,22:51:31,View Hours - TimeClock Plus,192,65,0,44,83,22:51:31
 63,2025-01-18,,,,,0,0,0,0,0,
 64,2025-01-19,19:14:52,TimeClock Plus - Employee (VT employee time reporting application) | All Portals | OneCampus,23:15:08,View Hours - TimeClock Plus,0,0,0,0,0,23:15:08
-65,2025-01-20,00:05:50,is kaito kid related to shinichi - Google Search,22:16:49,UGG Ladies' Classic Ultra Mini Boot | Costco,98,59,0,16,23,22:16:49
-66,2025-01-21,01:32:51,Dashboard,23:39:40,uva-cs/dsa2-staff: DSA2 staff repo,130,75,1,34,20,23:39:40
-67,2025-01-22,02:44:40,Responsible AI,23:15:04,Week 5: The Police: STS 4600 Sp 25 Sec 011,105,81,0,15,9,23:15:04
-68,2025-01-23,01:30:27,"UVa - Calendar - Week of February 9, 2025",22:32:46,Enter Time - Workday,133,81,0,43,9,22:32:46
-69,2025-01-24,00:46:11,,20:22:28,"Inbox (6,289) - eqk9vb@virginia.edu - UVa Mail",21,11,0,7,3,20:22:28
+65,2025-01-20,00:05:50,is kaito kid related to shinichi - Google Search,22:16:49,UGG Ladies' Classic Ultra Mini Boot | Costco,202,104,28,16,54,22:16:49
+66,2025-01-21,01:32:51,Dashboard,23:39:40,uva-cs/dsa2-staff: DSA2 staff repo,251,96,81,34,40,23:39:40
+67,2025-01-22,02:44:40,Responsible AI,23:15:04,Week 5: The Police: STS 4600 Sp 25 Sec 011,174,87,53,15,19,23:15:04
+68,2025-01-23,01:30:27,"UVa - Calendar - Week of February 9, 2025",22:32:46,Enter Time - Workday,249,138,45,43,23,22:32:46
+69,2025-01-24,00:46:11,,20:22:28,"Inbox (6,289) - eqk9vb@virginia.edu - UVa Mail",28,13,2,7,6,20:22:28
 70,2025-01-25,,,,,0,0,0,0,0,
-71,2025-01-26,01:14:09,lost origin booster pack - Google Search,03:18:02,"UVa - Calendar - Week of January 26, 2025",26,20,0,0,6,03:18:02
-72,2025-01-27,00:17:01,Dashboard,22:59:20,Daily crossword puzzles free from The Washington Post,198,114,0,46,38,22:59:20
-73,2025-01-28,15:57:36,Crosswords and Games - The Washington Post,23:56:30,Reading Summary Jan 29 - Paper 2,94,63,0,25,6,23:56:30
-74,2025-01-29,12:31:47,google drive - Google Search,23:30:54,Order | Peter Chang,110,41,0,34,35,23:30:54
-75,2025-01-30,00:23:32,[CSA] Fourth Year Fan | Messenger,22:59:36,"Search: 13 for ""softstreme""",81,54,0,9,18,22:59:36
-76,2025-01-31,02:38:27,Release date for PS2 and PA1 - eqk9vb@virginia.edu - UVa Mail,21:06:30,"Inbox (6,289) - eqk9vb@virginia.edu - UVa Mail",61,31,0,16,14,21:06:30
-77,2025-02-01,17:12:39,can wearing contacts make your head hurt - Google Search,22:45:57,Assignments: 25Sp Spec Top: Computer Science,23,12,0,0,11,22:45:57
-78,2025-02-02,22:45:00,Shared with me - Google Drive,22:53:52,Analyzing Online Behavior Paper Notes - Google Docs,4,0,0,0,4,22:53:52
-79,2025-02-03,01:26:20,Google Drive,23:11:10,liz cheney - Google Search,98,50,0,7,41,23:11:10
-80,2025-02-04,00:00:31,Readings & Notes - Google Docs,23:59:30,What is a Quasi-Experimental Design?,104,59,0,17,28,23:59:30
-81,2025-02-05,00:00:07,Discovering Shifts to Suicidal Ideation from Mental Health Content in Social Media - Google Slides,23:59:24,About | lululemon | lululemon Like New,135,70,0,30,35,23:59:24
-82,2025-02-06,00:00:34,New Arrivals | lululemon | lululemon Like New,23:58:46,[STUDENT] Survey on Ethics of ChatGPT in Education - Google Forms,60,19,0,7,34,23:58:46
-83,2025-02-07,00:05:50,Survey on Ethics of ChatGPT in Education,21:12:57,[STUDENT] Survey on Ethics of ChatGPT in Education - Google Forms,60,30,0,16,14,21:12:57
-84,2025-02-08,02:53:03,Google Slides,21:41:11,"Hotty Hot High-Rise Short 4"" Lined - Resale | lululemon | lululemon Like New",76,38,0,14,24,21:41:11
-85,2025-02-09,00:49:51,Your Courses | Gradescope,23:35:50,"Inbox (2,886) - cherylbai8@gmail.com - Gmail",68,19,0,11,38,23:35:50
-86,2025-02-10,03:23:32,Google Slides,23:55:24,Netflix,221,79,0,61,81,23:55:24
-87,2025-02-11,02:53:29,CS4774 ML Schedule - Google Drive,23:49:30,Logarithmic Expression Simplification,128,58,0,28,42,23:49:30
-88,2025-02-12,01:36:19,gmail - Google Search,23:53:21,HALF HORSE HALF MAN | OFFICIAL VIDEO - YouTube,115,47,0,20,48,23:53:21
-89,2025-02-13,00:49:50,problems you can solve in prolog - Google Search,23:57:44,How to download your Google data - Google Account Help,38,22,1,15,0,23:57:44
-90,2025-02-14,00:13:53,chrome://settings/syncSetup - Google Search,00:21:53,Downloads - DB Browser for SQLite,3,0,0,0,3,00:21:53
+71,2025-01-26,01:14:09,lost origin booster pack - Google Search,03:18:02,"UVa - Calendar - Week of January 26, 2025",29,20,0,0,9,03:18:02
+72,2025-01-27,00:17:01,Dashboard,22:59:20,Daily crossword puzzles free from The Washington Post,469,256,83,46,84,22:59:20
+73,2025-01-28,15:57:36,Crosswords and Games - The Washington Post,23:56:30,Reading Summary Jan 29 - Paper 2,171,84,48,25,14,23:56:30
+74,2025-01-29,12:31:47,google drive - Google Search,23:30:54,Order | Peter Chang,218,49,53,34,82,23:30:54
+75,2025-01-30,00:23:32,[CSA] Fourth Year Fan | Messenger,22:59:36,"Search: 13 for ""softstreme""",158,68,39,9,42,22:59:36
+76,2025-01-31,02:38:27,Release date for PS2 and PA1 - eqk9vb@virginia.edu - UVa Mail,21:06:30,"Inbox (6,289) - eqk9vb@virginia.edu - UVa Mail",101,49,5,16,31,21:06:30
+77,2025-02-01,17:12:39,can wearing contacts make your head hurt - Google Search,22:45:57,Assignments: 25Sp Spec Top: Computer Science,62,18,20,0,24,22:45:57
+78,2025-02-02,22:45:00,Shared with me - Google Drive,22:53:52,Analyzing Online Behavior Paper Notes - Google Docs,9,0,0,0,9,22:53:52
+79,2025-02-03,01:26:20,Google Drive,23:11:10,liz cheney - Google Search,298,68,126,7,97,23:11:10
+80,2025-02-04,00:00:31,Readings & Notes - Google Docs,23:59:30,What is a Quasi-Experimental Design?,207,81,43,17,66,23:59:30
+81,2025-02-05,00:00:07,Discovering Shifts to Suicidal Ideation from Mental Health Content in Social Media - Google Slides,23:59:24,About | lululemon | lululemon Like New,237,77,49,30,81,23:59:24
+82,2025-02-06,00:00:34,New Arrivals | lululemon | lululemon Like New,23:58:46,[STUDENT] Survey on Ethics of ChatGPT in Education - Google Forms,173,25,61,7,80,23:58:46
+83,2025-02-07,00:05:50,Survey on Ethics of ChatGPT in Education,21:12:57,[STUDENT] Survey on Ethics of ChatGPT in Education - Google Forms,87,33,7,16,31,21:12:57
+84,2025-02-08,02:53:03,Google Slides,21:41:11,"Hotty Hot High-Rise Short 4"" Lined - Resale | lululemon | lululemon Like New",127,51,5,14,57,21:41:11
+85,2025-02-09,00:49:51,Your Courses | Gradescope,23:35:50,"Inbox (2,886) - cherylbai8@gmail.com - Gmail",135,22,22,11,80,23:35:50
+86,2025-02-10,03:23:32,Google Slides,23:55:24,Netflix,391,108,48,63,172,23:55:24
+87,2025-02-11,02:53:29,CS4774 ML Schedule - Google Drive,23:49:30,Logarithmic Expression Simplification,272,90,59,28,95,23:49:30
+88,2025-02-12,01:36:19,gmail - Google Search,23:53:21,HALF HORSE HALF MAN | OFFICIAL VIDEO - YouTube,303,77,102,20,104,23:53:21
+89,2025-02-13,00:49:50,problems you can solve in prolog - Google Search,23:57:44,How to download your Google data - Google Account Help,77,27,31,19,0,23:57:44
+90,2025-02-14,00:13:53,chrome://settings/syncSetup - Google Search,00:21:53,Downloads - DB Browser for SQLite,20,2,0,0,18,00:21:53
